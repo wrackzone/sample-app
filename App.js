@@ -9,5 +9,7 @@ Ext.define('CustomApp', {
 
         console.log("second launched ");
 
+        console.log("third launched ");
+
     }
 });
